@@ -1,0 +1,6 @@
+D:\迅雷下载\完整代码\7.模型验证\testdata\1.png	0
+D:\迅雷下载\完整代码\7.模型验证\testdata\2.png	0
+D:\迅雷下载\完整代码\7.模型验证\testdata\3.png	0
+D:\迅雷下载\完整代码\7.模型验证\testdata\4.png	0
+D:\迅雷下载\完整代码\7.模型验证\testdata\5.png	0
+D:\迅雷下载\完整代码\7.模型验证\testdata\6.png	0
